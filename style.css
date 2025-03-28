@@ -1,0 +1,56 @@
+* {
+
+}
+
+body {
+	font-family: "Sour Gummy", serif;
+  	font-optical-sizing: auto;
+ 	font-weight: <weight>;
+  	font-style: normal;
+  	font-variation-settings:
+    "wdth" 100;
+	background-image: url(https://wallpapers.com/images/hd/teal-aesthetic-laptop-0u7me4pfm7js0vd1.jpg);
+	background-size: cover;
+}
+
+img {
+	width: 70%;
+}
+
+h4 {
+	text-align: center;
+}
+
+label {
+	font-size: 25px;
+}
+
+a {
+	color: #d9534f;
+}
+
+footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	padding: 5px;
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+
+.container {
+	background-color: white;
+}
+
+.col-md-7 {
+	border-style: dashed;
+	padding: 30px;
+}
+
+.buttons {
+	text-align: center;
+	font-size: 25px;
+}
+
